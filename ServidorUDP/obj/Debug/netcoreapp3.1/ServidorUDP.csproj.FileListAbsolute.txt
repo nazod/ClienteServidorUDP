@@ -1,0 +1,13 @@
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\bin\Debug\netcoreapp3.1\ServidorUDP.exe
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\bin\Debug\netcoreapp3.1\ServidorUDP.deps.json
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\bin\Debug\netcoreapp3.1\ServidorUDP.runtimeconfig.json
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\bin\Debug\netcoreapp3.1\ServidorUDP.runtimeconfig.dev.json
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\bin\Debug\netcoreapp3.1\ServidorUDP.dll
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\bin\Debug\netcoreapp3.1\ServidorUDP.pdb
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\obj\Debug\netcoreapp3.1\ServidorUDP.csprojAssemblyReference.cache
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\obj\Debug\netcoreapp3.1\ServidorUDP.AssemblyInfoInputs.cache
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\obj\Debug\netcoreapp3.1\ServidorUDP.AssemblyInfo.cs
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\obj\Debug\netcoreapp3.1\ServidorUDP.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\obj\Debug\netcoreapp3.1\ServidorUDP.dll
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\obj\Debug\netcoreapp3.1\ServidorUDP.pdb
+C:\Users\Gabriel Ricarte\source\repos\ServidorUDP\obj\Debug\netcoreapp3.1\ServidorUDP.genruntimeconfig.cache
